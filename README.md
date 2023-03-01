@@ -1,9 +1,14 @@
 # Hi there 👋
 
-## I am a 
+#### I Know: 
 - Python
 - Go
 - Javascript
 - Lua
+
+#### I Am Learning:
 - C++
-Programmer
+
+#### I am Working On:
+- Unnamed Textbased RPG
+- MIL Programming Language
