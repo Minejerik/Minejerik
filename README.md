@@ -1,14 +1,3 @@
-# Hi there 👋
+##Random Michigan Programmer
 
-#### I Know: 
-- Python
-- Go
-- Javascript
-- Lua
-
-#### I Am Learning:
-- C++
-
-#### I am Working On:
-- Unnamed Textbased RPG
-- NexusFlow - Coming soon!
+![bama](https://github-readme-stats.vercel.app/api?username=minejerik&theme=dark])
