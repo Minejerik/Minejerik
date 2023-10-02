@@ -5,5 +5,4 @@
 
 #### Currently a Student!
 
-[NexusFlow](http://nexusflow.org)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minejerik)](https://github.com/anuraghazra/github-readme-stats)
