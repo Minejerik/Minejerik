@@ -1,8 +1,10 @@
 ## Random Michigan Programmer
+Hire me here: [Fiverr](https://www.fiverr.com/s/3Emw6Y)
 
-## Hire me here:
-## [Fiverr](https://www.fiverr.com/s/3Emw6Y)
+Currently a Student!
 
-#### Currently a Student!
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minejerik)](https://github.com/anuraghazra/github-readme-stats)
+### Certified in:
+1. ITS AI (certiport)
+2. ITS Python (certiport)
+3. ITS Javascript (certiport)
+4. ITS HTML/CSS (certiport)
