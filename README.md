@@ -4,4 +4,5 @@
 2. ITS Python (certiport)
 3. ITS Javascript (certiport)
 4. ITS HTML/CSS (certiport)
-4. ITS Java (certiport)
+5. ITS Java (certiport)
+6. ITS Computational Thinking (certiport)
