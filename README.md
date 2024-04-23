@@ -6,3 +6,4 @@
 4. ITS HTML/CSS (certiport)
 5. ITS Java (certiport)
 6. ITS Computational Thinking (certiport)
+7. ITS Device configuration and management (certiport)
