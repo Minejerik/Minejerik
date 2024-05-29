@@ -1,4 +1,9 @@
 ## Random Michigan Programmer
+
+### Currently Working On:
+- Currently unnamed CTF (challenges + infrastructure)
+- Nim (Working on making more libraries for it)
+
 ### Certified in:
 1. ITS AI (certiport)
 2. ITS Python (certiport)
